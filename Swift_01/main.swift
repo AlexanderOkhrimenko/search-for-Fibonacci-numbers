@@ -9,7 +9,7 @@
 
 import Foundation
 
-var (f0,f1,f,u,n) = (0,1,1,0,0) // declaration of variables
+var (f0,f1,f) = (0,1,1) // declaration of variables
 
 print("Fibonacci series?")
 
